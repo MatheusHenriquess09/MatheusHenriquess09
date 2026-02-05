@@ -2,7 +2,7 @@
 
 **`Dev Junior`**
 
-Me chamo Matheus Henrique Soares e Silva, tenho 20 anos e sou natural de Recife, Pernambuco. Já conclui o ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Estou em busca do meu primeiro emprego.
+Me chamo Matheus Henrique Soares e Silva, tenho 20 anos e sou natural de Recife, Pernambuco. Já conclui o ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 </p>
     </a> 
