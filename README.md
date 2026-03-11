@@ -65,9 +65,3 @@
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusHenriquess09.MatheusHenriquess09"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusHenriquess09/MatheusHenriquess09/output/pacman-contribution-graph.svg">
-</p>
